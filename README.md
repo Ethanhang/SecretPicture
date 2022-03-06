@@ -4,10 +4,7 @@
 * * *
 ## 效果图
 #### **嵌入水印图或文字**
-<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174148.jpg?raw=true" width="200px" />
-<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174157.jpg?raw=true" width="200px" />
-<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174215.jpg?raw=true" width="200px" />
-<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174414.jpg?raw=true" width="200px" />
+<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174148.jpg?raw=true" width="300px" /><img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174157.jpg?raw=true" width="300px" /><img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174215.jpg?raw=true" width="300px" /><img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174414.jpg?raw=true" width="300px" />
 #### **提取水印图或文字**
-<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174221.jpg?raw=true" width="200px" />
-<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174420.jpg?raw=true" width="200px" />
+<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174221.jpg?raw=true" width="300px" />
+<img src="https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174420.jpg?raw=true" width="300px" />
