@@ -4,9 +4,10 @@
 * * *
 ## 效果图
 #### **嵌入水印图或文字**
-![1f23f511d95ad4a3d8d7e79ab20bf648.jpeg](en-resource://database/566:0)
-![8fa3fb4d942c7480f7d9aa6ae3f8af98.jpeg](en-resource://database/564:0)
-![de0ebdcddb8de32f0ff26c046889b66b.jpeg](en-resource://database/570:0)
+![picture1](https://github.com/Ethanhang/SecretPicture/raw/main/images/Screenshot_20220303-174148.jpg)
+![picture2](https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174157.jpg)
+![picture3](https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174215.jpg)
+![picture4](https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174414.jpg)
 #### **提取水印图或文字**
-![77b4f3f02b3167d4fc2833453912cf96.jpeg](en-resource://database/574:0)
-![a93b43bdd595fcdfe3e5f87ee2a8c03a.jpeg](en-resource://database/576:0)
+![picture5](https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174221.jpg)
+![picture6](https://github.com/Ethanhang/SecretPicture/blob/main/images/Screenshot_20220303-174420.jpg)
